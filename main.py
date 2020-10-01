@@ -1,4 +1,10 @@
 # -*- coding: utf-8 -*-
 
-def main():
-    return "Hello!"
+def assignment1(price):
+    pass
+
+def assignment2(base, exponent):
+    pass
+
+def assignment3(x):
+    pass
